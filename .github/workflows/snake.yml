@@ -1,4 +1,3 @@
-
 name: Generate Rainbow Snake
 
 on:
@@ -20,7 +19,7 @@ jobs:
         with:
           github_user_name: charisnarizqiennofirgian
           outputs: |
-            dist/github-contribution-grid-snake-rainbow.svg?color_snake=%23ffffff&color_dots=%23f9d423,%23ff4e50,%23fc913a,%2300b09b,%2396c93d,%236a5acd
+            dist/github-contribution-grid-snake-rainbow.svg?color_snake=%23ffffff&color_dots=%230d1117,%23ff6b6b,%23ffa94d,%2300b4d8,%239b5de5
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
