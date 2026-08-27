@@ -1,1 +1,31 @@
 
+name: Generate Rainbow Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # jalan otomatis tiap hari jam 00:00 UTC
+  workflow_dispatch: {} # supaya bisa dijalankan manual juga
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate rainbow snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: charisnarizqiennofirgian
+          outputs: |
+            dist/github-contribution-grid-snake-rainbow.svg?color_snake=%23ffffff&color_dots=%23f9d423,%23ff4e50,%23fc913a,%2300b09b,%2396c93d,%236a5acd
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
