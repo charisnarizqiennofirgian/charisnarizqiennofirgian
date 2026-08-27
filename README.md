@@ -1,11 +1,11 @@
 <!-- ====================== HEADER ANIMASI (DARK) ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Charisna%20Rizqi%20Enno%20Firgian&fontSize=38&fontColor=00FFC6&fontAlignY=40&desc=Fullstack%20Web%20Developer%20%7C%20ERP%20%26%20HRIS%20Systems&descAlignY=62&descSize=17&descColor=8892B0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Charisna%20Rizqi%20Enno%20Firgian&fontSize=38&fontColor=00FFC6&fontAlignY=45" />
 </p>
 
-<!-- ====================== TYPING EFFECT (dark bg, fixed) ====================== -->
+<!-- ====================== TYPING EFFECT (dark bg, simple) ====================== -->
 <p align="center">
-  <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Fullstack%20Web%20Developer%20%F0%9F%92%BB%22%7D%2C%7B%22text%22%3A%22Laravel%20%2B%20Vue.js%20%2B%20Inertia.js%22%7D%2C%7B%22text%22%3A%22ERP%20%2F%20HRIS%20%2F%20Financial%20System%20Builder%22%7D%2C%7B%22text%22%3A%22REST%20API%20%26%20Manual%20QA%22%7D%2C%7B%22text%22%3A%22Open%20for%20Freelance%20Projects%20%F0%9F%9A%80%22%7D%5D&font=Fira+Code&color=00FFC6&backgroundColor=0f0f0f&width=700&height=60&fontSize=22&border=false&center=true&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FFC6&background=0F0F0F00&center=true&vCenter=true&width=700&lines=Fullstack+Web+Developer;Laravel+%2B+Vue.js+%2B+Inertia.js;ERP+%2F+HRIS+%2F+Financial+System+Builder;REST+API+%26+Manual+QA;Open+for+Freelance+Projects" alt="Typing SVG" />
 </p>
 
 <!-- ====================== SOCIAL BADGES (dark/black style) ====================== -->
@@ -74,8 +74,8 @@ Fullstack Developer dengan pengalaman langsung membangun sistem **ERP, HRIS, dan
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=charisnarizqiennofirgian&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0f0f0f" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charisnarizqiennofirgian&layout=compact&theme=github_dark&hide_border=true&bg_color=0f0f0f" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=charisnarizqiennofirgian&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0f0f0f" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charisnarizqiennofirgian&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f" />
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ Fullstack Developer dengan pengalaman langsung membangun sistem **ERP, HRIS, dan
   <img src="https://raw.githubusercontent.com/charisnarizqiennofirgian/charisnarizqiennofirgian/output/github-contribution-grid-snake-rainbow.svg" />
 </p>
 
-<sub align="center">⚠️ Grafik ini butuh 1x setup GitHub Actions — lihat file <code>snake.yml</code> yang saya kirim terpisah.</sub>
+
 
 <br/>
 
@@ -102,5 +102,5 @@ Fullstack Developer dengan pengalaman langsung membangun sistem **ERP, HRIS, dan
 
 <!-- ====================== FOOTER ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" />
 </p>
