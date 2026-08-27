@@ -84,15 +84,6 @@ Fullstack Developer dengan pengalaman langsung membangun sistem **ERP, HRIS, dan
 
 <br/>
 
-<!-- ====================== CONTRIBUTION SNAKE (RAINBOW) ====================== -->
-### 🐍 Contribution Graph (Rainbow Mode)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/charisnarizqiennofirgian/charisnarizqiennofirgian/output/github-contribution-grid-snake-rainbow.svg" />
-</p>
-
-
-
 <br/>
 
 <!-- ====================== TROPHY (dark theme) ====================== -->
